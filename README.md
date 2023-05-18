@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rosmypachon@gmail.com**
 
-- 🌱 I’m currently learning **Python, Angular.Js, Next.Js and C#**
 
 
 <div align="left">
